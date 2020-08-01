@@ -1,7 +1,7 @@
 # The Weather
 
 
-![](preview.png)
+![](./preview.png)
 
 Weather Underground Icons https://peter.build/weather-underground-icons/
 
